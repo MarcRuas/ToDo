@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.marco.lista_de_tarefa"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.marco.lista_de_tarefa"
@@ -78,4 +78,5 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout-compose:1.0.1")
     implementation(platform("com.google.firebase:firebase-bom:32.2.2"))
     implementation("com.google.firebase:firebase-firestore-ktx")
+    implementation("androidx.core:core-splashscreen:1.0.1")
 }
