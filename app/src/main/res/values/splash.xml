@@ -2,7 +2,7 @@
 <resources>
     <style name="Theme.Splash" parent="Theme.SplashScreen" >
         <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
-        <item name="windowSplashScreenBackground">@color/teal_200</item>
+        <item name="windowSplashScreenBackground">@color/white</item>
         <item name="postSplashScreenTheme">@style/Theme.ListadeTarefa</item>
     </style>
 </resources>
