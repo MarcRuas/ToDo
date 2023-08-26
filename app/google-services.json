@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669652871446",
+    "project_id": "lista-de-tarefa-7a856",
+    "storage_bucket": "lista-de-tarefa-7a856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669652871446:android:b715b50d1f3420c7fa4837",
+        "android_client_info": {
+          "package_name": "com.marco.lista_de_tarefa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669652871446-fiau1sqvjs8hpa9j333q1t5lftt8f9th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGDO8pI5aJVUZp2N7aNaHDpDh1QYVg_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669652871446-fiau1sqvjs8hpa9j333q1t5lftt8f9th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
